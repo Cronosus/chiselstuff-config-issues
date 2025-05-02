@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "justanotherchiselmod:holy_blocks",
+    "justanotherchiselmod:holy_bricks",
+    "justanotherchiselmod:holy_chiseled",
+    "justanotherchiselmod:holy_const",
+    "justanotherchiselmod:holy_l_bricks",
+    "justanotherchiselmod:holy_p_tiles",
+    "justanotherchiselmod:holy_plate",
+    "justanotherchiselmod:holy_platform",
+    "justanotherchiselmod:holy_r_blocks",
+    "justanotherchiselmod:holy_s_plate",
+    "justanotherchiselmod:holy_simbol",
+    "justanotherchiselmod:holy_smooth",
+    "justanotherchiselmod:holy_stone",
+    "justanotherchiselmod:holy_tiles"
+  ]
+}

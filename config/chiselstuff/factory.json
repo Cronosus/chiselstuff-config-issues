@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "justanotherchiselmod:factory_column",
+    "justanotherchiselmod:factory_gold_symbol",
+    "justanotherchiselmod:factory_plating",
+    "justanotherchiselmod:factory_tilered",
+    "justanotherchiselmod:factory_vent",
+    "justanotherchiselmod:technical_fan",
+    "justanotherchiselmod:technical_t_fan",
+    "justanotherchiselmod:technical_t_fan_err",
+    "justanotherchiselmod:technical_fan_mal",
+    "justanotherchiselmod:technical_fan_still",
+    "justanotherchiselmod:technical_t_fan_still"
+  ]
+}

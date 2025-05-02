@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "justanotherchiselmod:technical_cable",
+    "justanotherchiselmod:technical_caution_tape",
+    "justanotherchiselmod:technical_grate",
+    "justanotherchiselmod:technical_grate_rusty",
+    "justanotherchiselmod:technical_hex_plates",
+    "justanotherchiselmod:technical_industrial_relic",
+    "justanotherchiselmod:technical_insulation",
+    "justanotherchiselmod:technical_old",
+    "justanotherchiselmod:technical_pipes_large",
+    "justanotherchiselmod:technical_pipes_small",
+    "justanotherchiselmod:technical_rusty_plates",
+    "justanotherchiselmod:technical_scaffold",
+    "justanotherchiselmod:technical_scaffold_transparent",
+    "justanotherchiselmod:technical_spinning",
+    "justanotherchiselmod:technical_vent",
+    "justanotherchiselmod:technical_vent_glowing",
+    "justanotherchiselmod:technical_wires"
+  ]
+}

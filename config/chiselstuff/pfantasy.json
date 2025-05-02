@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "justanotherchiselmod:p_fantasy_block",
+    "justanotherchiselmod:p_fantasy_brick",
+    "justanotherchiselmod:p_fantasy_d_pillar",
+    "justanotherchiselmod:p_fantasy_damage",
+    "justanotherchiselmod:p_fantasy_decoration",
+    "justanotherchiselmod:p_fantasy_decoration_b",
+    "justanotherchiselmod:p_fantasy_disarray",
+    "justanotherchiselmod:p_fantasy_faded",
+    "justanotherchiselmod:p_fantasy_pillar",
+    "justanotherchiselmod:p_fantasy_plate",
+    "justanotherchiselmod:p_fantasy_w_disarray",
+    "justanotherchiselmod:p_fantasy_worn"
+  ]
+}

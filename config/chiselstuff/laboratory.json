@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "justanotherchiselmod:lab_block",
+    "justanotherchiselmod:lab_check_tiles",
+    "justanotherchiselmod:lab_console",
+    "justanotherchiselmod:lab_dm_tiles",
+    "justanotherchiselmod:lab_doted",
+    "justanotherchiselmod:lab_f_screen",
+    "justanotherchiselmod:lab_l_arrow",
+    "justanotherchiselmod:lab_l_steel",
+    "justanotherchiselmod:lab_l_tiles",
+    "justanotherchiselmod:lab_m_steel",
+    "justanotherchiselmod:lab_m_tiles",
+    "justanotherchiselmod:lab_r_arrow",
+    "justanotherchiselmod:lab_rounled",
+    "justanotherchiselmod:lab_screen",
+    "justanotherchiselmod:lab_tile",
+    "justanotherchiselmod:lab_vent"
+  ]
+}

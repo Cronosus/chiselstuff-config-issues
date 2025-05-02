@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "justanotherchiselmod:rp_basalt",
+    "justanotherchiselmod:rp_basalt_bricks",
+    "justanotherchiselmod:rp_basalt_smooth",
+    "justanotherchiselmod:rp_basalt_chiseled",
+    "justanotherchiselmod:rp_basalt_cobb",
+    "justanotherchiselmod:rp_marble",
+    "justanotherchiselmod:rp_marble_bricks"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "justanotherchiselmod:water_black",
+    "justanotherchiselmod:water_chaotic",
+    "justanotherchiselmod:water_cobble",
+    "justanotherchiselmod:water_creeper",
+    "justanotherchiselmod:water_p_ornate",
+    "justanotherchiselmod:water_panel",
+    "justanotherchiselmod:water_tiles"
+  ]
+}

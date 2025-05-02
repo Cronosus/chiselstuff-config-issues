@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "justanotherchiselmod:dark_limestone",
+    "justanotherchiselmod:dark_limestone_creep",
+    "justanotherchiselmod:dark_limestone_dungeon_ornate",
+    "justanotherchiselmod:dark_limestone_dungeon_vent",
+    "justanotherchiselmod:dark_limestone_french",
+    "justanotherchiselmod:dark_limestone_french_2",
+    "justanotherchiselmod:dark_limestone_light_creep",
+    "justanotherchiselmod:dark_limestone_light_dent",
+    "justanotherchiselmod:dark_limestone_light_emboss",
+    "justanotherchiselmod:dark_limestone_light_four",
+    "justanotherchiselmod:dark_limestone_light_marker",
+    "justanotherchiselmod:dark_limestone_light_panel",
+    "justanotherchiselmod:dark_limestone_mossy_tiles",
+    "justanotherchiselmod:dark_limestone_small_bricks",
+    "justanotherchiselmod:dark_limestone_small_tiles"
+  ]
+}

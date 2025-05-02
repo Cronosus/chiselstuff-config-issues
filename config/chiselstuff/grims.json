@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "justanotherchiselmod:grims_blocks",
+    "justanotherchiselmod:grims_bricks",
+    "justanotherchiselmod:grims_chiseled",
+    "justanotherchiselmod:grims_chunk",
+    "justanotherchiselmod:grims_const",
+    "justanotherchiselmod:grims_f_tiles",
+    "justanotherchiselmod:grims_flaky",
+    "justanotherchiselmod:grims_hate",
+    "justanotherchiselmod:grims_l_bricks",
+    "justanotherchiselmod:grims_plate",
+    "justanotherchiselmod:grims_platform",
+    "justanotherchiselmod:grims_r_blocks",
+    "justanotherchiselmod:grims_r_blocks_2",
+    "justanotherchiselmod:grims_r_plate",
+    "justanotherchiselmod:grims_smooth",
+    "justanotherchiselmod:grims_stone",
+    "justanotherchiselmod:grims_t_platform",
+    "justanotherchiselmod:grims_tiles"
+  ]
+}
