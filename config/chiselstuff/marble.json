@@ -32,6 +32,26 @@
     "justanotherchiselmod:marble_triple_bricks",
     "justanotherchiselmod:marble_twisted",
     "justanotherchiselmod:marble_weaver",
-    "justanotherchiselmod:marble_zag"
+    "justanotherchiselmod:marble_zag",
+    "chiseled_marble:raw_marble",
+    "chiseled_marble:polished_marble",
+    "chiseled_marble:soft_marble_bricks",
+    "chiseled_marble:marble_bricks",
+    "chiseled_marble:small_marble_bricks",
+    "chiseled_marble:layered_marble_bricks",
+    "chiseled_marble:cracked_marble_bricks",
+    "chiseled_marble:marble_mosaic",
+    "chiseled_marble:weaver_marble_bricks",
+    "chiseled_marble:french_marble",
+    "chiseled_marble:chaotic_marble_bricks",
+    "chiseled_marble:marblepillar",
+    "chiseled_marble:circular_marble",
+    "chiseled_marble:marble_triple_bricks",
+    "chiseled_marble:marbletiles",
+    "chiseled_marble:marblesmalltiles",
+    "chiseled_marble:prism_marble",
+    "chiseled_marble:zag_marble",
+    "chiseled_marble:road_marble",
+    "kubejs:marble_zag2"
   ]
 }
